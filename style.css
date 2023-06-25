@@ -9,7 +9,9 @@ h1,
 h2 {
     color: white;
 }
-
+h2{
+    outline: 2px dashed white;
+}
 
 html {
     -webkit-touch-callout: none;
